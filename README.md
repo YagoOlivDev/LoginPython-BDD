@@ -3,7 +3,7 @@
 ## Sobre o Projeto:
 Esse projeto se consiste em uma tela de registro e login totalmente feita em Python, junto dessa tela temos as funcionalidades principais, registrar e entrar.
 Ao apertar "registrar" o programa verifica os dados se são possiveis ser cadastrados e se ja tem um registro com o CPF digitado pelo usuário.
-Caso não tenha e os dados tiverem "corretos" o usuário é cadastrado.
+Caso não tenha e os dados estiverem "corretos" o usuário é cadastrado.
 Ao tentar logar o programa também verifica se os dados estão "certos" e se existem no banco de dados MySQL, se estiver ele loga o usuário.
 Ao logar ele abre uma nova janela, excluindo a antiga, nessa janela é possivel ver 3 Botões que são 3 opções, uma quando clicada abre uma janela no navegador,
 mostrando meu Linkedln, o segundo botão direciona para meu perfil aqui no GitHub, o terceiro direciona para meu instagram.
